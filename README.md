@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jayesh Dhariyal 👋</h1>
-<h3 align="center">Java Full Stack Developer | Final Year CS Student | Problem Solver</h3>
+<h3 align="center">Java Full Stack Developer | Final Year CS Student | DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayesh-dhariyal-049601188/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,10 +13,10 @@
 ### 🚀 About Me
 
 - 🎓 Final-year **B.Tech CSE** student (CGPA: 8.5/10), graduating Aug 2026
-- 💻 Specializing in **Java Full Stack Development** — Java, Spring Boot, JDBC, MySQL, HTML/CSS/JS
-- 🔥 Solved **300+ DSA problems** on LeetCode, including Dynamic Programming, Backtracking & Graphs
+- 💻 Building toward **Java Full Stack Development** — Java, Spring Boot (learning), JDBC, MySQL, JavaScript, React (learning)
+- 🔥 Solved **300+ DSA problems** on LeetCode — strong in Dynamic Programming, Backtracking, Graphs & Trees
 - ☁️ Certified in **Oracle Cloud Infrastructure** (AI Foundations, Generative AI, Database Architect)
-- 🌱 Currently leveling up: **Spring Boot** & **React.js**
+- 🌱 Currently practicing: **React.js** & **Spring Boot**
 - 🎯 Looking for: **Entry-level Java Developer / Full Stack Developer** roles
 
 ---
@@ -26,17 +26,19 @@
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Backend & Database**
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Tools & Platforms**
@@ -52,9 +54,21 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| 🏠 [Property Dealer](https://github.com/jayeshkumardhariyal/propertydealer) | Real estate property listing application with location-based listings | `Java` `JavaScript` |
+| 📚 [BookStore Management](https://github.com/jayeshkumardhariyal/BookStoreManagement) | Maven-based Java application for managing book inventory and records | `Java` `Maven` |
 | 🎓 [University Management System](https://github.com/jayeshkumardhariyal/University-mangement-System) | Backend system managing student, faculty & course records with 5+ normalized relational tables and full CRUD via JDBC | `Java` `JDBC` `MySQL` |
 | ♻️ [E-Waste Generation Classification](https://github.com/jayeshkumardhariyal/E-Waste-Generation-Classification) | ML model to classify e-waste categories for sustainable disposal | `Python` `Jupyter Notebook` |
+| ⚛️ [React Practice](https://github.com/jayeshkumardhariyal/react-practice) | Collection of React components and hooks practice exercises | `React` `JavaScript` |
 | 🌐 [Personal Portfolio](https://github.com/jayeshkumardhariyal/portfolio) | Fully responsive personal portfolio deployed via GitHub Pages | `HTML` `CSS` `JavaScript` |
+
+<details>
+<summary>📂 More repositories</summary>
+
+- [JavaScript Projects](https://github.com/jayeshkumardhariyal/JavaScript-Projects) — Collection of mini JS projects
+- [Patterns Programming](https://github.com/jayeshkumardhariyal/Patterns-Programming) — Java pattern-printing & logic building exercises
+- [Array Programming](https://github.com/jayeshkumardhariyal/ArrayProgramming) — Java array manipulation problems
+
+</details>
 
 ---
 
