@@ -95,13 +95,7 @@
 
 ---
 
-### 📈 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=jayeshkumardhariyal&theme=dark" alt="LeetCode Stats"/>
-</p>
-
----
 
 <p align="center">
   <i>💬 Open to entry-level Java Developer / Full Stack Developer opportunities — let's connect!</i>
